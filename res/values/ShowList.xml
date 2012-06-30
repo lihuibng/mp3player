@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name1"> 小背篓  </string>
+    <string name="sex1">mygn.mp3</string>
+    <string name="age1">4分钟</string>
+
+    <string name="name2"> 爱我中华 </string>
+    <string name="sex2">awzh.mp3</string>
+    <string name="age2">4分钟</string>
+    
+    
+
+    <string name="ys">选择项：</string>
+    
+    
+</resources>
